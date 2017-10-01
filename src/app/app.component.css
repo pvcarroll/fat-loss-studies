@@ -1,0 +1,18 @@
+.table {
+    width: 100%;
+}
+
+.study-row {
+    border-bottom: 1px solid #DDDDDD;
+}
+
+.table th {
+    padding-bottom: 3px;
+    border-bottom: 1px solid #AAAAAA;
+    font-weight: normal;
+}
+
+.table td {
+    padding: 8px 5px;
+    border-bottom: 1px solid #DDDDDD;
+}
